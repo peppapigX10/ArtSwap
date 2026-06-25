@@ -1,0 +1,152 @@
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #27206D;
+    color: #F7EBFF;
+    font-family: 'Josefin Sans', sans-serif;
+    margin:0;
+    padding:0;
+}
+
+
+.home-container {
+    background-image: url('../img/background_glow.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    /* background-attachment:fixed; */
+
+}
+
+.home-content-container {
+    position: relative;
+    padding-top: 120px;
+    align-items:center;
+
+}
+
+.home-content-container img {
+    max-width:80%;
+    display:block;
+    margin: 0 auto;
+}
+
+.menu {
+    display:inline-block;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-370%, -3.5%);
+    z-index: 20;
+}
+.menu ul {
+    list-style-type: none;
+    font-size:18px;
+
+}
+
+.menu ul li {
+    padding-top:10px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #e0c8f0;
+}
+
+.menu ul li a:hover{
+    color: #bc67f5;
+}
+
+.overlap-img {
+    position: absolute; 
+    z-index:10;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -49%);
+    width:60%;
+
+}
+
+
+.base-img {
+    display: block;
+}
+
+.parallax {
+    position: relative;
+    overflow: hidden;
+}
+
+.parallax-img {
+    position: absolute;
+    transition: transform 0.1 ease-out;
+    transform: translate(-50%, -50%);
+}
+
+.home-text-goal h1{
+    background: linear-gradient(to bottom, #F7EBFF, #CEA7E8);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    align-items:center;
+    /* padding-left:100%;
+    transform: translate(-50%, 0%); */
+    font-weight:500;
+    font-size: 75px;
+}
+
+.home-section2-container {
+    margin-top:190px;
+    /* padding: 0 20%; */
+    text-align:center;
+    position: relative;
+    /* background-color:aqua; */
+    width:100%;
+}
+
+
+
+.image-home-pg2 {
+    width:15%;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,46%);
+    z-index:10;
+    pointer-events:none;
+    z-index:1;
+}
+
+.join-container {
+    background-color:aqua;
+    
+    margin-top:450px;
+    
+}
+.join-title {
+    text-align:center;
+    background: linear-gradient(to bottom, #F7EBFF, #CEA7E8);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+
+    font-weight:500;
+    font-size: 75px;
+}
+
+.join-grid-container {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap:20px;
+    padding:20px;
+}
+
+.join-grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 5%;
+}
