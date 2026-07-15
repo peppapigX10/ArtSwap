@@ -233,6 +233,7 @@ p {
 
 @media (max-width:850px) {
     .menu-rect {
+        width:130px;
     }
 
     .menu-rect ul {
