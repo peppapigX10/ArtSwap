@@ -7,7 +7,7 @@ lives: an art swap! Everyone from kids to the elderly is invited to create a sma
 hand-sized art piece, clip it to a clothesline gallery stand (that I will maintain and create)
 and swap it for another artist’s mini creation to keep!
 
-Visit the website: [link]()
+Visit the website: [link](https://peppapigx10.github.io/ArtSwap/)
 
 ## What it Does
 Talks about this art swap.
@@ -22,3 +22,4 @@ Talks about this art swap.
 ## Author
 **Peperi** (peppapigX10)
 - GitHub: [@peppapigX10](https://github.com/peppapigX10)
+- Behance: [@PEPERI](https://www.behance.net/PEPERI)
