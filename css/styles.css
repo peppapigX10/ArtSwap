@@ -159,7 +159,7 @@ p {
     left:41%;
     transform: translateY(50%); */
     display: block;
-    margin: -80px auto 0;
+    margin: -100px auto 0;
     z-index:10;
     pointer-events:none;
     z-index:1;
