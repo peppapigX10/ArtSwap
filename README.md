@@ -19,6 +19,9 @@ Talks about this art swap.
 - Locations
 - Contacts
 
+## Credits
+Thank you Magnific for the pencils image (on home page) and lavender image.
+
 ## Author
 **Peperi** (peppapigX10)
 - GitHub: [@peppapigX10](https://github.com/peppapigX10)
