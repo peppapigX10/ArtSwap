@@ -134,6 +134,7 @@ p {
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
+    text-align:center;
     align-items:center;
     /* padding-left:100%;
     transform: translate(-50%, 0%); */
@@ -168,7 +169,7 @@ p {
 .join-container1 {
     /* background-color:aqua; */
     
-    margin-top:370px;
+    margin-top:150px;
     
 }
 .section-title {
