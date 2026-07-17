@@ -18,6 +18,8 @@ body {
     
 }
 
+
+
 p {
     font-size:18px;
     font-weight:400;
@@ -111,6 +113,7 @@ p {
 }
 
 
+
 .base-img {
     display: block;
 }
@@ -156,7 +159,7 @@ p {
     left:41%;
     transform: translateY(50%); */
     display: block;
-    margin: -90px auto 0;
+    margin: -80px auto 0;
     z-index:10;
     pointer-events:none;
     z-index:1;
@@ -217,11 +220,34 @@ p {
     color: #F7EBFF;
 }
 
+.contacts-container1{
+    text-align:center;
+    margin-bottom:50px;
+}
+
 .contacts-container1 p {
     text-align: center;
     font-size: 18px;
     padding:0 200px;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
+}
+
+
+button {
+    font-size: 15px;
+    color: #F7EBFF;
+    align-items: center;
+    background-color:transparent;
+    border:2px solid #F7EBFF;
+    border-radius:50px;
+    padding: 15px 20px;
+}
+
+button a {
+    text-decoration:none;
+    color: #F7EBFF;
+    font-family: 'Josefin Sans', sans-serif;
+
 }
 
 @media (max-width:900px) {
